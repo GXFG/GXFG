@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GXFG&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: space-around; align-item: center; margin: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=GXFG&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GXFG&layout=compact" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GXFG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GXFG's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gxfg&theme=github)
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+![](https://visitor-badge.glitch.me/badge?page_id=gxfg.visitor-badge)
 
 <!--
 **GXFG/GXFG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
