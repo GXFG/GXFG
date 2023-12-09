@@ -5,8 +5,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GXFG&layout=compact" />
 </div>
 
-![GXFG's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gxfg&theme=github)
-
 ![](https://visitor-badge.glitch.me/badge?page_id=gxfg.visitor-badge)
 
 <!--
